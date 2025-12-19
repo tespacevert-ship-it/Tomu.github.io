@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Espaces Verts & Multiservices</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+    <h1>Espaces Verts & Multiservices</h1>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="services.html">Services</a>
+        <a href="tarifs.html">Tarifs</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>Votre partenaire pour vos jardins et petits travaux</h2>
+    <p>Entretien d’espaces verts – Multiservices – Devis gratuit</p>
+</section>
+
+<section class="content">
+    <h3>Pourquoi nous choisir ?</h3>
+    <ul>
+        <li>✔ Travail soigné et professionnel</li>
+        <li>✔ Intervention rapide</li>
+        <li>✔ Prix transparents</li>
+        <li>✔ Devis gratuit</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2025 Espaces Verts & Multiservices</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Nos Services</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+    <h1>Nos Services</h1>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="services.html">Services</a>
+        <a href="tarifs.html">Tarifs</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Espaces Verts</h2>
+    <ul>
+        <li>Tonte de pelouse</li>
+        <li>Taille de haies et arbustes</li>
+        <li>Désherbage</li>
+        <li>Nettoyage de jardin</li>
+    </ul>
+
+    <h2>Multiservices</h2>
+    <ul>
+        <li>Petit bricolage</li>
+        <li>Nettoyage extérieur / intérieur</li>
+        <li>Aide au déménagement</li>
+        <li>Petits travaux divers</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2025 Espaces Verts & Multiservices</p>
+</footer>
+</body>
+</html>
