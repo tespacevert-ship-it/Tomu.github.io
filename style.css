@@ -6,7 +6,7 @@ body {
 
 header {
     background: #ffffff;
-    color: white;
+    color: khaki;
     padding: 20px;
     text-align: center;
 }
@@ -53,4 +53,5 @@ footer {
     width: 120px;
     margin-bottom: 10px;
 }
+
 
