@@ -19,7 +19,7 @@ nav a {
 }
 
 .hero {
-    background: #c8e6c9;
+    background: white;
     padding: 50px;
     text-align: center;
 }
@@ -53,6 +53,7 @@ footer {
     width: 300px;
     margin-bottom: 10px;
 }
+
 
 
 
